@@ -18,7 +18,7 @@ Machine learning algorithms, such as regression models and ensemble methods, wil
 * Feature Engineering: Identifying and transforming key features that significantly impact medical insurance pricing. Handling missing or categorical data to ensure the model's robustness.
 * Model Development: Employing various machine learning algorithms to train the predictive model. Fine-tuning parameters and optimizing the model for accuracy.
 * Validation and Evaluation: Rigorous validation using cross-validation techniques to assess the model's performance. Evaluating metrics such as mean absolute error, mean squared error, and R-squared to measure predictive accuracy.
-* Interpretability and Insights: Unveiling the factors that heavily influence medical insurance pricing. Providing interpretable insights into the relationships discovered by the model.  
+* Interpretability and Insights: Unveiling the factors that heavily influence medical insurance pricing. Providing interpretable insights into the relationships discovered by the model.
 
 ### Conclusion
 This portfolio project aims to demonstrate the use of machine learning to predict medical insurance prices, providing a useful resource for individuals, insurance providers, and data enthusiasts alike. By deciphering the complexities of insurance pricing using data-driven insights, the project contributes to a better understanding of the factors that influence financial obligations in healthcare.  
